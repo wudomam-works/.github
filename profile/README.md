@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome!
+Please visit this [PAGE](wudomam.work) for more info.
+
 <!--
 
 **Here are some ideas to get you started:**
