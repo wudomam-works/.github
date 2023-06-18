@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome!
-Please visit this [PAGE](wudomam.work) for more info.
+Please visit this [PAGE](https://wudomam.work) for more info.
 
 <!--
 
